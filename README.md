@@ -15,6 +15,10 @@ Compare latency and accuracy of face detection algorithms.
 ### MTCNN  
 ![](https://github.com/kairess/face_detection_comparison/raw/master/result/result_mtcnn.png)
 
+### Dlib MMOD  
+Good but too slow on CPU. Must use GPU for speed  
+![](https://github.com/kairess/face_detection_comparison/raw/master/result/result_dlib_mmod.png)
+
 
 ## Algorithms
 
@@ -22,6 +26,7 @@ Compare latency and accuracy of face detection algorithms.
 - Haar cascade: models/haarcascade_frontalface_default.xml
 - Dlib frontal face detector
 - MTCNN: https://github.com/ipazc/mtcnn
+- Dlib cnn_face_detection_model_v1: models/mmod_human_face_detector.dat
 
 ## Test Environment
 - MacBook Pro (Retina, 15-inch, Mid 2014)
