@@ -1,7 +1,7 @@
 # Face Detection Algorithm Comparison
 
 Compare latency and accuracy of face detection algorithms.  
-**Click link to watch [demo video]()!**  
+**Click link to watch [demo video](https://youtu.be/WL7xAJGnx_I)!**  
 
 ### OpenCV DNN Face Detector (Best)  
 ![](https://github.com/kairess/face_detection_comparison/raw/master/result/result_opencv_dnn.png)
